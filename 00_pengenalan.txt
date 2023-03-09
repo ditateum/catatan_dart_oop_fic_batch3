@@ -1,0 +1,10 @@
+Sebuah paradigma dimana kita memandang sistem sebagai sebuah object (kumpulan object)
+
+Ecommerc3 --> user, payment, product
+object user
+object payment
+object product
+
+Bagaimana cara membuat object? ---> kita butuh cetakan 
+cetakan --> class
+dari 1 class --> bisa membuat banyak object
